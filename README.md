@@ -30,12 +30,9 @@ This is a simple web-based random password generator project. It allows users to
 Contributions are welcome! If you have any suggestions or improvements, please open an issue or create a pull request.
 
 
+
 ## Acknowledgments
 
 - This project was inspired by the need for a simple and secure password generation tool.
 - Special thanks to [FontAwesome](https://fontawesome.com/) for the copy icon used in the project.
-
-## Author
-
-Vishal Aggarwal
 
