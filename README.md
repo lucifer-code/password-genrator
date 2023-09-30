@@ -29,19 +29,10 @@ This is a simple web-based random password generator project. It allows users to
 
 Contributions are welcome! If you have any suggestions or improvements, please open an issue or create a pull request.
 
-## License
 
-This project is licensed under the MIT License - see the file for details.
 
 ## Acknowledgments
 
 - This project was inspired by the need for a simple and secure password generation tool.
 - Special thanks to [FontAwesome](https://fontawesome.com/) for the copy icon used in the project.
 
-## Author
-
-Vishal Aggarwal  
-
-## Contact
-
-If you have any questions or need further assistance, feel free to contact me at [your-email@example.com](mailto:your-email@example.com).
