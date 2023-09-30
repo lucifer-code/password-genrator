@@ -29,9 +29,6 @@ This is a simple web-based random password generator project. It allows users to
 
 Contributions are welcome! If you have any suggestions or improvements, please open an issue or create a pull request.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgments
 
@@ -40,9 +37,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Author
 
-[Your Name]
-[Your Email]
+Vishal Aggarwal
 
-## Contact
-
-If you have any questions or need further assistance, feel free to contact me at [your-email@example.com](mailto:your-email@example.com).
