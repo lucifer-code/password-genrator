@@ -31,7 +31,7 @@ Contributions are welcome! If you have any suggestions or improvements, please o
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License - see the file for details.
 
 ## Acknowledgments
 
@@ -40,8 +40,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Author
 
-[Your Name]
-[Your Email]
+Vishal Aggarwal  
 
 ## Contact
 
