@@ -6,7 +6,7 @@ const numbersEl = document.getElementById("numbers");
 const symbolsEl = document.getElementById("symbols");
 const generateEl = document.getElementById("generate");
 const clipboard = document.getElementById("clipboard");
-
+const passInput = document.querySelector("input");
 const randomFunc = {
   lower: getRandomLower,
   upper: getRandomUpper,
@@ -30,6 +30,24 @@ clipboard.addEventListener("click", () => {
   alert("Password copied to clipboard");
 });
 
+passInput.addEventListener("keydown", (e) => {
+  if (e.keyCode === 13) {
+    e.preventDefault();
+    const length = +lengthEl.value;
+    const hasLower = lowercaseEl.checked;
+    const hasUpper = uppercaseEl.checked;
+    const hasNumber = numbersEl.checked;
+    const hasSymbol = symbolsEl.checked;
+
+    resultEl.innerText = generatePassword(
+      hasLower,
+      hasUpper,
+      hasNumber,
+      hasSymbol,
+      length
+    );
+  }
+});
 generate.addEventListener("click", () => {
   const length = +lengthEl.value;
   const hasLower = lowercaseEl.checked;
