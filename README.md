@@ -36,3 +36,7 @@ Contributions are welcome! If you have any suggestions or improvements, please o
 - This project was inspired by the need for a simple and secure password generation tool.
 - Special thanks to [FontAwesome](https://fontawesome.com/) for the copy icon used in the project.
 
+##CRedits
+Vishal Aggarwal
+JCBOSEUST YMCA
+
